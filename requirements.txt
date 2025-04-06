@@ -1,6 +1,6 @@
 Flask==2.3.2
 Flask-Cors==3.0.10
-google-generativeai==0.1.0  # Replace with the actual version you're using
+google-generativeai==0.8.4
 python-dotenv==1.0.0
 yfinance==0.2.26
 requests==2.31.0
