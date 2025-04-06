@@ -19,7 +19,7 @@ except Exception as e:
     exit()
 
 # --- Model Selection and Configuration ---
-MODEL_NAME = "gemini-2.5-pro-exp-03-25" # Or gemini-pro / gemini-1.5-pro-latest
+MODEL_NAME = "gemini-1.5-pro-latest" # Or gemini-pro / gemini-1.5-pro-latest
 generation_config = {
     "temperature": 0.5, # Slightly lower for more focused financial output
     "top_p": 1.0,
