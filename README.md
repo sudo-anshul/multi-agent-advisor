@@ -16,6 +16,5 @@ Features
 
 # Contributors
 
-
 1. [Khushi Rajput](https://github.com/Khushirajput123)  
 2. [Dhruv Kumar](https://github.com/dhruv-04)
